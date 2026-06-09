@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sandra 👋
 
-<!--
-**sandrasharu/sandrasharu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+## About Me
+- Recent graduate passionate about data analytics
+- Skilled in SQL, Python, Excel, Power BI, and Tableau
+- Interested in transforming data into meaningful insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SQL
+- Python
+- Excel
+- Power BI
+- Tableau
+
+## Projects
+📌 Sales Dashboard Analysis
+
+📌 Customer Churn Analysis
+
+📌 HR Analytics Dashboard
+
+## Certifications
+- Add your certifications here
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/sandra-p-65944131b/
+GitHub: https://github.com/sandrasharu
