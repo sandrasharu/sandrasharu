@@ -15,14 +15,16 @@
 - Tableau
 
 ## Projects
-📌 Sales Dashboard Analysis
+📌 Sales Performance Dashboard
 
 📌 Customer Churn Analysis
 
-📌 HR Analytics Dashboard
+📌 E-commerce Data Analysis
 
 ## Certifications
-- Add your certifications here
+Google Data Analysis Professional Certificate
+IBM Data Analyst Professional Certificate
+Microsoft Data Analysis with SQL,Excel and Power BI Specialization
 
 ## Connect With Me
 LinkedIn: https://www.linkedin.com/in/sandra-p-65944131b/
